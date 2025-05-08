@@ -1,18 +1,12 @@
-# The Four Seasons
+## The Four Seasons ☀️🍁⛄️🍀
 
-Hi there!
+SpriteKit playground submission for the **Apple™ Swift Student Challenge 2020**.
 
-This is the playground I made for the **WWDC20 Swift Student Challenge**, and I'm happy to say I was one of the winners 🏆!
+**🏆 Winner!**
 
-The Four Seasons is made entirely with SpriteKit and explores a whole bunch of its features.
+[Check out the demo!](https://youtu.be/f_LbK6Dhfps)
 
-[You can check out the video here](https://youtu.be/f_LbK6Dhfps).
-
-☀️🍁⛄️🍀
-
----
+### Resources
  
-All assets from the [Kenney Game Assets pack](https://kenney.nl).
- 
-All music by [Kevin MacLeod](incompetech.com),
-licensed under [Creative Commons: By Attribution 4.0 License](http://creativecommons.org/licenses/by/4.0/).
+- All assets from the [Kenney Game Assets pack](https://kenney.nl)
+- All music by [Kevin MacLeod](incompetech.com) licensed under [Creative Commons: By Attribution 4.0 License](http://creativecommons.org/licenses/by/4.0/)
